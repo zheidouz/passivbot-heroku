@@ -1,1 +1,1 @@
-worker: python start_bot.py binance_01 MANAUSDT configs/live/binance_manausdt.json
+worker: python start_bot.py binance_02 MANAUSDT configs/live/binance_manausdt.json

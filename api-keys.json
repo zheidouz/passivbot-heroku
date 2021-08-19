@@ -13,8 +13,8 @@
     },
     "binance_02" : {
         "exchange": "binance",
-        "key": "key",
-        "secret": "secret"
+        "key": "$EXCHANGE_KEY",
+        "secret": "$EXCHANGE_SECRET"
     },
     "bybit_01" : {
         "exchange": "bybit",
