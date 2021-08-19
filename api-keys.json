@@ -4,7 +4,7 @@
         "key": "$BINANCE_KEY",
         "secret": "$BINANCE_SECRET",
         "telegram": {
-            "enabled": true,
+            "enabled": false,
             "notify_entry_fill": true,
             "notify_close_fill": true,
             "token": "$TELEGRAM_TOKEN",
