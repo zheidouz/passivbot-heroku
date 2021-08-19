@@ -1,10 +1,10 @@
 {
     "binance_01" : {
         "exchange": "binance",
-        "key": "$BINANCE_KEY",
-        "secret": "$BINANCE_SECRET",
+        "key": "$EXCHANGE_KEY",
+        "secret": "$EXCHANGE_SECRET",
         "telegram": {
-            "enabled": false,
+            "enabled": true,
             "notify_entry_fill": true,
             "notify_close_fill": true,
             "token": "$TELEGRAM_TOKEN",
